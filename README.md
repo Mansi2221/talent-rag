@@ -1,5 +1,12 @@
 # Talent Intelligence Assistant
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI%20GPT--4o-412991?style=flat-square&logo=openai&logoColor=white)
+
 A production-grade, end-to-end Retrieval-Augmented Generation (RAG) system for talent intelligence and recruitment automation.
 
 ## Architecture Overview
@@ -345,3 +352,7 @@ benchmark.save_results(results, "benchmark_results.json")
 ## License
 
 MIT License - see LICENSE file for details.
+
+---
+
+<sub>Built by **Mansi** · [github.com/Mansi2221](https://github.com/Mansi2221)</sub>
